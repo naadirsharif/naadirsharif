@@ -37,8 +37,6 @@ Building and learning modern cloud infrastructure using AWS, Docker and Terrafor
 
 ---
 
-### 🔗 Connect with me
-
 <h3 align="left">🔗 Connect with me</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/naadir-sharif/" target="_blank">
