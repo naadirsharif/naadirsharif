@@ -37,13 +37,11 @@ Building and learning modern cloud infrastructure using AWS, Docker and Terrafor
 
 ---
 
-### 🌐 Connect with me:
+### 🔗 Connect with me
 
 <p align="left">
-<a href="https://www.linkedin.com/in/naadir-sharif/" target="_blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-</a>
-<a href="https://github.com/naadirsharif" target="_blank">
-  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" alt="GitHub" height="30" width="40" />
-</a>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/naadir-sharif/)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/naadirsharif)
+
 </p>
