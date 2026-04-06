@@ -15,7 +15,7 @@ Building and learning modern cloud infrastructure using AWS, Docker and Terrafor
 - AWS ECS (Fargate)
 - Terraform Infrastructure as Code
 - CI/CD with GitHub Actions
-- HTTPS with Route53 & ACM
+- HTTPS with Cloudflare & ACM
 
 ➡️ https://github.com/naadirsharif/umami-ecs
 
