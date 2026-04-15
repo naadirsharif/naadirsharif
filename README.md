@@ -7,17 +7,18 @@ Building and learning modern cloud infrastructure using AWS, Docker and Terrafor
 
 ---
 
-### 🚀 Current Project
+### 📌 Featured Project
 
-🔧 **Umami Analytics Deployment on AWS ECS**
+🔧 ##[Umami ECS Deployment Project](https://github.com/naadirsharif/umami-ecs)
+
+Production-style cloud deployment using Docker, Terraform and GitHub Actions.
 
 - Docker containerisation
-- AWS ECS (Fargate)
-- Terraform Infrastructure as Code
-- CI/CD with GitHub Actions
-- HTTPS with Cloudflare & ACM
-
-➡️ https://github.com/naadirsharif/umami-ecs
+- ECS Fargate (private subnets, ALB)
+- Terraform infrastructure as code
+- CI/CD automation (GitHub Actions)
+- Secure deployments via OIDC (no AWS keys)
+- HTTPS via Cloudflare + ACM
 
 ---
 
@@ -37,7 +38,7 @@ Building and learning modern cloud infrastructure using AWS, Docker and Terrafor
 
 ---
 
-<h3 align="left">🔗 Connect with me</h3>
+<h3 align="left">🔗 Connect </h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/naadir-sharif/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
