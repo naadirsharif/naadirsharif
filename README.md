@@ -11,7 +11,7 @@ Building and learning modern cloud infrastructure using AWS, Docker and Terrafor
 
 **[Umami ECS Deployment Project](https://github.com/naadirsharif/umami-ecs)**
 
-Production-style cloud deployment using Docker, Terraform and GitHub Actions.
+Production-style cloud deployment using **Docker, Terraform and GitHub Actions**.
 
 - Docker containerisation
 - ECS Fargate (private subnets, ALB)
