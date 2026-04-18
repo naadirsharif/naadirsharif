@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Naadir Sharif</h1>
-<h3 align="center">Junior DevOps Engineer | Cloud & Infrastructure Enthusiast</h3>
+<h3 align="center">Aspiring Junior DevOps Engineer</h3>
 
 <p align="center">
 Building and learning modern cloud infrastructure using AWS, Docker and Terraform.
