@@ -2,7 +2,7 @@
 <h3 align="center">DevOps Engineer</h3>
 
 <p align="center">
-Building and learning modern cloud infrastructure using AWS, Docker and Terraform.
+Building modern cloud infrastructure using AWS, Docker and Terraform.
 </p>
 
 ---
