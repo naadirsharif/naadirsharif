@@ -7,18 +7,18 @@ Building modern cloud infrastructure using AWS, Docker and Terraform.
 
 ---
 
-### 📌 Featured Project
+### 🚀 Featured Project
 
 **[Umami ECS Deployment Project](https://github.com/naadirsharif/umami-ecs)**
 
-Production-style cloud deployment using **Docker, Terraform and GitHub Actions**.
+Production-style deployment of a self-hosted analytics platform on AWS.
 
-- Docker containerisation
-- ECS Fargate (private subnets, ALB)
-- Terraform infrastructure as code
-- CI/CD automation (GitHub Actions)
-- Secure deployments via OIDC (no AWS keys)
-- HTTPS via Cloudflare + ACM
+- 🐳 Containerised application using Docker (multi-stage builds)
+- ☁️ Deployed on AWS ECS Fargate (private subnets + ALB)
+- 📦 Infrastructure as Code with Terraform (modular design)
+- 🔁 CI/CD automation (GitHub Actions)
+- 🔐 Secure deployments via OIDC (no AWS keys)
+- 🌐 HTTPS via Cloudflare + ACM
 
 ---
 
