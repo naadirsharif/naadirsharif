@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Naadir Sharif</h1>
+<h1 align="center">Hi 👋, I'm Naadir</h1>
 <h3 align="center">DevOps Engineer | AWS • Terraform • CI/CD</h3>
 
 <p align="center">
