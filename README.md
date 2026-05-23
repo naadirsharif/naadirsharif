@@ -14,7 +14,7 @@
 - 🌍 Based in **Baden, Switzerland**
 - ☁️ Focused on building secure, scalable cloud infrastructure on **AWS**
 - 🧱 Strong believer in **Infrastructure as Code**
-- 🌱 Currently deepening expertise in **Kubernetes (EKS)
+- 🌱 Currently deepening expertise in **Kubernetes (EKS)**
 
 ---
 
