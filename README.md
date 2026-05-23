@@ -60,12 +60,3 @@
   <img src="https://streak-stats.demolab.com?user=naadirsharif&theme=default&hide_border=true&date_format=j%20M%5B%20Y%5D" height="150" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naadirsharif&layout=compact&theme=default&hide_border=true&langs_count=6" height="130" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/github/followers/naadirsharif?style=for-the-badge&logo=github&labelColor=black&color=black" />
-  &nbsp;
-  <img src="https://img.shields.io/github/stars/naadirsharif?style=for-the-badge&logo=github&labelColor=black&color=black" />
-</p>
