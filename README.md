@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Naadir</h1>
-<h3 align="center">Cloud & DevOps Engineer | AWS · Terraform · Docker · CI/CD</h3>
+<h3 align="center">Cloud & DevOps Engineer | AWS · Terraform · CI/CD</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/naadir-sharif/" target="_blank">
