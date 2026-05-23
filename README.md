@@ -56,6 +56,5 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=naadirsharif&theme=default&hide_border=true" height="160" />
-</p>
+![GitHub followers](https://img.shields.io/github/followers/naadirsharif?style=for-the-badge)
+![GitHub stars](https://img.shields.io/github/stars/naadirsharif?style=for-the-badge)
