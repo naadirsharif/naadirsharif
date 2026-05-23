@@ -57,6 +57,6 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=naadirsharif&theme=default&hide_border=true&date_format=j%20M%5B%20Y%5D" height="150" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=naadirsharif&theme=github-compact&hide_border=true&area=true" />
 </p>
 
