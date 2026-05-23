@@ -57,5 +57,5 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=naadirsharif&show_icons=true&theme=default&hide_border=true&count_private=true&cache_seconds=1800" height="160" />
+  <img src="https://streak-stats.demolab.com?user=naadirsharif&theme=default&hide_border=true" height="160" />
 </p>
