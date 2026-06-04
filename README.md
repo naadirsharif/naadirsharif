@@ -52,12 +52,3 @@
 [![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://www.gnu.org/software/bash/)
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=naadirsharif&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D&stroke=00000000&ring=7F77DD&fire=7F77DD&currStreakLabel=7F77DD&width=600" />
-</p>
-
-
