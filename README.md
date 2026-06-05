@@ -1,33 +1,45 @@
-<h1 align="center">Hi 👋, I'm Naadir</h1>
-<h3 align="center">Cloud & DevOps Engineer | AWS · Terraform · CI/CD</h3>
+<h1 align="center">Naadir Sharif</h1>
+<h3 align="center">Cloud & DevOps Engineer · AWS · Terraform · Kubernetes</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/naadir-sharif/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
-- 🌍 Based in **Baden, Switzerland**
-- ☁️ Focused on building secure, scalable cloud infrastructure on **AWS**
+- 🌍 Based in **Switzerland**
+- ☁️ Cloud Engineer — focused on secure, scalable infrastructure on **AWS**
 - 🧱 Strong believer in **Infrastructure as Code**
-- 🌱 Currently deepening expertise in **Kubernetes (EKS)**
+- 🔧 Currently building a **production-grade EKS platform** with Terraform, Helm, ArgoCD and cert-manager
 
 ---
 
-## 🚀 Featured Project
+## 🚀 Projects
+
+### [EKS GitOps Platform](https://github.com/naadirsharif/eks-gitops-platform) — *In Progress*
+> Production-grade Kubernetes platform on AWS EKS with full GitOps automation.
+
+| Area | Stack |
+|------|-------|
+| Infrastructure | Terraform (custom modules) |
+| Kubernetes | EKS · NGINX Ingress · cert-manager · external-dns |
+| GitOps | ArgoCD |
+| CI/CD | GitHub Actions |
+| Monitoring | Prometheus · Grafana |
+
+---
 
 ### [Umami Analytics — Production ECS Deployment](https://github.com/naadirsharif/umami-ecs)
-
 > Self-hosted analytics platform deployed on AWS with full production-grade architecture.
 
 | Area | Stack |
 |------|-------|
 | Containerisation | Docker (multi-stage builds) |
-| Compute | AWS ECS Fargate (private subnets) |
+| Compute | AWS ECS Fargate |
 | Networking | ALB · Cloudflare · ACM (HTTPS) |
 | IaC | Terraform (modular) |
 | CI/CD | GitHub Actions + OIDC (keyless auth) |
@@ -51,4 +63,3 @@
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/)
 [![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://www.gnu.org/software/bash/)
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
-
