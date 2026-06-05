@@ -1,5 +1,5 @@
 <h1 align="center">Naadir Sharif</h1>
-<h3 align="center">Cloud & DevOps Engineer · AWS · Terraform · Kubernetes</h3>
+<h3 align="center">Cloud & DevOps Engineer · AWS · Terraform</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/naadir-sharif/" target="_blank">
