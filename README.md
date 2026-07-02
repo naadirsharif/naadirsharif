@@ -20,7 +20,7 @@
 
 ## 🚀 Projects
 
-### [EKS GitOps Platform](https://github.com/naadirsharif/eks-gitops-platform) — *In Progress*
+### [EKS GitOps Platform](https://github.com/naadirsharif/eks-gitops-platform) 
 > Production-grade Kubernetes platform on AWS EKS with full GitOps automation.
 
 | Area | Stack |
